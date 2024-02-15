@@ -3,7 +3,7 @@
 Hi, my name is Brian Tran, welcome to my GitHub!
 
 ⇴  I’m a Web developer, IT Specialist, SEO Specialist and Founder of CodeBloxx.
-
+⇴  Check out my website www.codebloxxs.com 
 ⇴ 🔗 Connect with me through [LinkedIn](https://www.linkedin.com/in/brian-tran-1522b9192/)
 
 ## &#x1f4c8; GitHub Stats
